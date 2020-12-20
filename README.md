@@ -1,7 +1,7 @@
 # guadaluped74.github.io
 installation: 
 by using the url of the website: 
-by using github:
+by using github: https://github.com/Guadaluped74/guadaluped74.github.io
 
 fixes: 
 html: 
